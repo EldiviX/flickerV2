@@ -1,0 +1,10 @@
+#gifContainer {
+    position: absolute;
+    width: 99%;
+    height: 98%;
+    display: none;
+}
+
+#change-bg {
+    position: absolute;
+}
